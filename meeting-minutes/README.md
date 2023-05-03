@@ -7,4 +7,4 @@ with the usual meaning of the placeholders for (Y)ear, (m)onth, and (d)ay.
 
 There is a template to ease minute taking, reviewing, and referencing alike.
 
-The local path to the template is [template/YYYY-mm-dd.md](template/YYYY-mm-dd.my).
+The local path to the template is [template/YYYY-mm-dd.md](template/YYYY-mm-dd.md).
