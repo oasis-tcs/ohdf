@@ -7,6 +7,7 @@ Note:
 > The currently present markdown file, styles, and images have been derived from
 > the current starter package of another OASIS TC (received on 2023-MAY-18)
 > from OASIS administration (Paul Knight).
+> The existing image and matching caption are taken from an OpenC2 spec.
 > When starting the real editorial work the TC will have to request a specific
 > markdown template for the workproduct.
 > The rationale for providing this template is to show how the boilerplate
